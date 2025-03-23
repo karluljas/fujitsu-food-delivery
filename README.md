@@ -10,10 +10,6 @@ A Spring Boot application for calculating food delivery fees based on city, vehi
 5. [Setup & Installation](#setup--installation)
 6. [Usage](#usage)
 7. [API Endpoints](#api-endpoints)
-8. [Testing](#testing)
-9. [Future Improvements](#future-improvements)
-10. [Contributing](#contributing)
-11. [License](#license)
 
 ## Overview
 This application calculates delivery fees for food couriers by considering:
